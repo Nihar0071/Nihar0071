@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Neural Networks, LLM's, Sequential Models, Data Analysis, WebDev, Model Development and Finance**
 
-- 📫 How to reach me **niharpatel665@gmail.com**
+- 📫 How to reach me **niharpatel9971@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16-BXi1V4sJ5CbAY7WBdyPYi9qX83OJTB/view?usp=sharing](https://drive.google.com/file/d/16-BXi1V4sJ5CbAY7WBdyPYi9qX83OJTB/view?usp=sharing)
 
