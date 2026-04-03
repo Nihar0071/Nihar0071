@@ -15,7 +15,8 @@
 
 ### About
 
-ML Engineer with 2+ years building production LLM systems, agentic AI pipelines, and GPU-optimized runtimes. M.S. Computer Science from Boston University (4.0 GPA). Open-source contributor to **TensorFlow** (merged into `master`). Published researcher in federated learning and computer vision.
+ML Engineer with 2+ years building production LLM systems, agentic AI pipelines, and GPU-optimized runtimes. 
+Open-source contributor
 
 Currently focused on **efficient on-device inference** — speculative decoding, PagedAttention, KV cache optimization, and memory-efficient runtimes that bring powerful AI to consumer hardware.
 
@@ -23,14 +24,11 @@ Currently focused on **efficient on-device inference** — speculative decoding,
 
 ### What I'm Building
 
-🔬 **vllm-mps** — PagedAttention inference engine for Apple Silicon  
+ **vllm-mps** — PagedAttention inference engine for Apple Silicon  
 Built a vLLM-style paged KV-cache runtime for Apple MPS. Achieved **3.46× throughput** over HuggingFace baseline (6.5 → 22.5 tok/s on TinyLlama 1.1B, M1 MacBook Air) via block-ID caching, batched decode, and MPS shader warmup.
 
-⚡ **Moleculic** — LLM Runtime & Distributed Training System  
+ **Moleculic** — LLM Runtime & Distributed Training System  
 Multi-GPU distributed fine-tuning with PyTorch FSDP + DeepSpeed ZeRO-3 on 4×A100 GPUs. Deployed on Kubernetes with autoscaling, GPU-aware scheduling, and Prometheus/NVIDIA Nsight observability. Applied 8-bit quantization + LoRA cutting inference memory by 35%.
-
-🏢 **Seagate Technology** — ML Engineer  
-Engineered document vectorization across 100K+ docs. Designed multi-agent AI systems across 9+ departments. Reduced LLM hallucination rate by 27%. Optimized production LLMs using quantization, distillation, and LoRA/PEFT.
 
 ---
 
